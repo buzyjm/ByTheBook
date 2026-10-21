@@ -1,0 +1,12 @@
+{
+  "appliance": "LEADZM electronic scale",
+  "manual": "leadzm_scale_manual.pdf",
+  "tasks": [
+    {"id": "T1", "task": "Switch the scale on.", "horizon": "short"},
+    {"id": "T2", "task": "Switch the scale on and tare it.", "horizon": "short"},
+    {"id": "T3", "task": "Switch the scale on and change the unit to carats.", "horizon": "medium"},
+    {"id": "T4", "task": "Switch the scale on, wait until it is ready, have the block placed on the pan and report its weight in grams.", "horizon": "medium"},
+    {"id": "T5", "task": "Switch the scale on, change the unit to ounces, have the block placed on the pan, report the reading, then switch the scale off.", "horizon": "long"},
+    {"id": "T6", "task": "Switch the scale on, enter the piece-counting mode, then leave it again so the display shows grams.", "horizon": "long"}
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "title": "LEADZM Electronic Scale",
+  "subtitle": "User Manual",
+  "model": "Precision balance, 3000 g x 0.01 g",
+  "photos": {
+    "cover": "photos/overview_angle_clean.jpg",
+    "overview": "photos/overview_top_clean.jpg",
+    "panel": "photos/panel_top_clean.jpg",
+    "display": "photos/display_on_clean.jpg"
+  },
+  "overview_parts": [
+    {
+      "id": "A",
+      "name": "Weighing pan",
+      "xy": [
+        710,
+        400
+      ],
+      "label_xy": [
+        90,
+        130
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Pan surround",
+      "xy": [
+        200,
+        720
+      ],
+      "label_xy": [
+        90,
+        870
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Control panel",
+      "xy": [
+        1170,
+        1250
+      ],
+      "label_xy": [
+        1350,
+        1520
+      ]
+    },
+    {
+      "id": "D",
+      "name": "Display",
+      "xy": [
+        705,
+        1080
+      ],
+      "label_xy": [
+        90,
+        1520
+      ]
+    },
+    {
+      "id": "E",
+      "name": "Power cord",
+      "xy": [
+        25,
+        730
+      ],
+      "label_xy": [
+        90,
+        620
+      ]
+    }
+  ],
+  "panel_parts": [
+    {
+      "id": 1,
+      "name": "ON/OFF key",
+      "kind": "button",
+      "label": "ON/OFF",
+      "xy": [
+        252,
+        855
+      ],
+      "label_xy": [
+        60,
+        1300
+      ],
+      "function": "Switches the scale on; press again to switch it off."
+    },
+    {
+      "id": 2,
+      "name": "Display",
+      "kind": "display",
+      "label": "",
+      "xy": [
+        892,
+        760
+      ],
+      "label_xy": [
+        892,
+        330
+      ],
+      "function": "Shows the weight, the active unit, the stability mark and the battery symbol."
+    },
+    {
+      "id": 3,
+      "name": "TARE/ZERO key",
+      "kind": "button",
+      "label": "TARE/ZERO",
+      "xy": [
+        1537,
+        850
+      ],
+      "label_xy": [
+        1687,
+        1300
+      ],
+      "function": "Sets the display to zero; subtracts the weight of a container."
+    },
+    {
+      "id": 4,
+      "name": "UNIT key",
+      "kind": "button",
+      "label": "UNIT",
+      "xy": [
+        557,
+        1035
+      ],
+      "label_xy": [
+        327,
+        1270
+      ],
+      "function": "Steps through the weighing units."
+    },
+    {
+      "id": 5,
+      "name": "PCS key",
+      "kind": "button",
+      "label": "PCS",
+      "xy": [
+        892,
+        1050
+      ],
+      "label_xy": [
+        892,
+        1270
+      ],
+      "function": "Enters the piece-counting mode."
+    },
+    {
+      "id": 6,
+      "name": "CAL key",
+      "kind": "button",
+      "label": "CAL",
+      "xy": [
+        1232,
+        1035
+      ],
+      "label_xy": [
+        1467,
+        1270
+      ],
+      "function": "Starts the calibration with a reference weight."
+    }
+  ],
+  "specs": [
+    [
+      "Maximum weighing",
+      "3000 g"
+    ],
+    [
+      "Resolution",
+      "0.01 g"
+    ],
+    [
+      "Tare range",
+      "3000 g"
+    ],
+    [
+      "Calibration weight",
+      "2000 g"
+    ],
+    [
+      "Weighing pan",
+      "Round, stainless steel, 130 mm"
+    ],
+    [
+      "Units",
+      "g, ct, oz, ozt, lb, TOL, dwt, mm, kg, pcs, %"
+    ],
+    [
+      "Power",
+      "AC adapter (DC 9 V) or batteries"
+    ],
+    [
+      "Operating temperature",
+      "5 to 35 C"
+    ],
+    [
+      "Auto power-off",
+      "None: the scale stays on until switched off"
+    ]
+  ],
+  "units": [
+    "g",
+    "ct",
+    "oz",
+    "ozt",
+    "lb",
+    "TOL",
+    "dwt",
+    "mm",
+    "kg",
+    "%"
+  ],
+  "errors": [
+    [
+      "Upper horizontal line",
+      "The load on the pan is negative",
+      "Remove everything from the pan and press TARE/ZERO; recalibrate if it persists"
+    ],
+    [
+      "Lower horizontal line or --------",
+      "Overload",
+      "Remove the load; do not exceed 3000 g including the container"
+    ],
+    [
+      "Err-1",
+      "Switched off and on again too quickly",
+      "Wait 3 seconds before switching on"
+    ],
+    [
+      "Err-2",
+      "Weighing unstable",
+      "Wait a moment; avoid draughts and vibration"
+    ],
+    [
+      "Err-SP",
+      "Counting or percentage mode entered without a reference sample",
+      "Counting: press PCS to return to grams. Percentage: place the reference sample first"
+    ],
+    [
+      "Battery symbol flashing, then shut down",
+      "No power",
+      "Replace the batteries or check the adapter and cord"
+    ]
+  ]
+}

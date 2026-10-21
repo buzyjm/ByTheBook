@@ -1,0 +1,240 @@
+  Technical Support and E-Warranty Certificate www.vevor.com/support
+
+
+
+
+         LAB SCALES AND BALANCES
+                           USER MANUAL
+
+
+
+
+           We continue to be committed to provide you tools with competitive price.
+  "Save Half", "Half Price" or any other similar expressions used by us only represents an
+estimate of savings you might benefit from buying certain tools with us compared to the major
+top brands and does not necessarily mean to cover all categories of tools offered by us. You
+    are kindly reminded to verify carefully when you are placing an order with us if you are
+                 actually saving half in comparison with the top major brands.
+                                           LAB SCALES AND BAL
+                                                        ANCES
+
+MODEL: HZ5003/HZ-B20002/HZ-B30002
+
+
+
+
+                            Photo for reference
+
+
+                     NEED HELP? CONTACT US!
+ Have product questions? Need technical support? Please feel free to
+ contact us:
+              Technical Support and E-Warranty Certificate
+                        www.vevor.com/support
+
+
+
+ This is the original instruction, please read all manual instructions
+ carefully before operating. VEVOR reserves a clear interpretation of our
+ user manual. The appearance of the product shall be subject to the
+ product you received. Please forgive us that we won't inform you again if
+ there are any technology or software updates on our product.
+
+
+                                   -1-
+Key Description:
+
+ON/OFF - "On/Off" key PCS - "Count" key
+TARE - "Peel off" key UNIT - "Unit conversion" key
+CAL - "Calibration" key ZERO - "Zero" key
+
+Specifications and performance indicators
+
+The HZ-B series electronic balance is divided into the following specifications
+according to different ranges ()
+
+
+        Model HZ-B                    5003                20002            30002
+     Maximum weighing                 500g                2000g            3000g
+      resolving power                 0.001g              0.01g             0.01g
+      Calibration scale                10d                 10d              10d
+         tare range                   500g                2000g            3000g
+     Calibration weight               200g                500g             2000g
+          Pan size                    90mm                   square 157*176cm
+           Power                (AC110-220V±10% 50HZ/601HZ)AC/DC dual-purpose
+
+
+   Operating temperature                               -5-45°C
+       Using humidity                                  50-85%
+
+
+Operation preparation ZERO - "Zero" key
+Place the balance on a stable and flat workbench, adjust the adjustment feet so
+that the horizontal bubble is in the center position, and avoid balance vibration,
+sunlight exposure, airflow, and strong electromagnetic wave interference.
+
+
+ Power on
+1. Connect the external power supply and turn on the power switch.
+2. Press the "ON/OFF" button to display "8.8.8.8.8.", "maximum weighing value",
+and "--" in sequence. The display time of "-- --" depends on the stability of the
+sensor, so do not place the balance on the air vent or unstable workbench. Finally,
+display the weighing mode of "0, 0.0, or 0.00". If the "0" symbol in the upper left
+
+                                         -2-
+corner flashes, it indicates that the workplace is unstable and the following 5 to 9
+operations cannot be performed.
+Calibration level
+1. Place the balance on a stable and flat workbench, while avoiding vibration,
+sunlight exposure, airflow, and strong electromagnetic interference. Turn on the
+power of the balance and preheat for half an hour before proceeding to ensure
+accurate calibration results.
+2. Calibration operation CAL - "Calibration" key
+Calibration: Without adding any objects to the scale, hold down the "CAL
+Calibration" button and hold it down. After about 3 seconds, release it immediately
+when "- CAL --" is displayed. Wait for the flashing "Standard Weight Value" to be
+displayed. Place the shining "Standard Weight Value" weight on the scale and
+display the "------" waiting state. Wait for the "Standard Weight Value" to be
+displayed. Remove the weight and the display will change to the "------" waiting
+state. Wait for the display to be 0, 0.0, or 0.00, and the calibration will end. If the
+weighing is still inaccurate after calibration, repeat the above process several
+times for calibration.
+3. Linear correction using 3000g/0.01g as an example
+Press and hold the "CAL Calibration" button without releasing your hand. After
+about 3 seconds, when the "-- CAL --" display is displayed, release your hand
+immediately. Wait for the "Standard Weight Value" to flash, then press and hold the
+"PCS" button without releasing your hand. After about 3 seconds, when the "--
+CAL --" display is displayed, release your hand immediately, and the 1000g flash
+will be displayed. At this time, you put in the 1000g weight, remove it when it
+stabilizes, and then the 3000g flash will jump out. At this time, you put in the 3000g
+weight, remove it when it stabilizes, and linear calibration is completed
+
+
+Weighing
+1. After the startup preheating is stable or calibrated, the weighing mode is
+displayed as "0 or 0.0 or 0.00".
+2. Place the weighing object on the scale, which displays its weight.
+
+
+Tare removal key
+
+
+
+                                         -3-
+1. Place the container on the weighing pan, and the balance will display the weight
+of the container.
+2. After pressing the "TARE Tare" button, it will display "0 or 0.0 or 0.00",
+indicating that the tare weight has been removed.
+3. Place the object in the container, indicating the weight of the object being
+weighed.
+
+
+Balance Counting Operation PCS - "Counting" Key
+
+Enter the average state of setting a single counting object, Place the container
+needed for counting on the scale, and do not place any unnecessary containers.
+After pressing the "TARE Tare" button, the display will be "0, 0.0, or 0.00". Then,
+after pressing the "PCS Count" button, the display will be "10" flashing, and the
+display in the bottom right corner will change from "g" to "PCS". At this time, place
+10 objects to be counted on the scale, then press the "PCS Count" button, and the
+display will change to "-- --" waiting state. After a while, the display will change to
+"10". After completing the average setting operation, the scale can proceed with
+counting. When performing this operation, the zero point must be "0 or 0.0 or 0.00",
+and the weight of a single count must be greater than the minimum reader of the
+balance, i.e. resolution.
+
+                 SAFETY INSTRUCTION AND PRECAUTIONS
+
+
+       WARNING:
+
+1. Before use, power should be turned on and preheated according to regulations.
+2. The sum of the tare weight and the weight of the weighing object shall not
+exceed the weighing range.
+3. If the weighing is not accurate, it is necessary to calibrate the balance with
+standard weights.
+4. If you need to remove the circular scale plate from the balance, please turn the
+scale plate clockwise before removing it. Do not forcefully pull the scale plate
+upwards to avoid damaging the sensor.
+5. Error message appears, please refer to the table below
+
+
+                                          -4-
+ Error message         Explain                            Processing method
+                       The weight on the
+ upper
+                       balance is biased                  Recalibrate with weights
+ horizontal line
+                       negative
+ Lower                 Overweight alarm,
+                                                          Recalibrate with weights
+ horizontal line       Article 10
+                       Continuous power on/off            Turn off for 3 seconds
+ ERR-1
+                       caused                             before turning on again
+ ERR-2                 Weighing unstable                  Just wait for a moment
+
+
+Matching kit
+HZ-B20002 and HZ-B30002
+1. Instructions * 1
+2. Power adapter * 1;
+3. 500g weight * 1;
+4. Weighing plate * 1;
+5. Weighing tray bracket * 1
+6. Internal hexagonal wrench * 1
+7. 4 bolts
+HZ5003
+1 Instructions*1
+2. Power adapter*1
+3. 200g weight * 1;
+4. Weighing plate * 1;
+5. Windproof hood base * 1
+6. Windshield (composed of 5 acrylic panels)
+
+Option: 1 standard weight
+The relevant content of this manual may vary due to product updates or differences from the
+actual product. Please refer to the actual product without further notice.
+Special precautions: (If customers do not have their own standard weights for all of our
+products, do not press the "CAL" button to calibrate them. Our products are calibrated
+before leaving the factory)
+
+                                             -5-
+  A scale with a specification of 3000g/0.01g and a weighing range of 0-3KG should be
+installed before powering on. When installing the scale, a bracket must be installed, with a
+distinction between the front and back sides. We have labels on it, and the scale can be
+placed freely in the front and back (scale size: 176*157mm stainless steel material). After
+installing the scale, the scale should be straightened. If it is uneven, the four adjustment feet
+at the bottom of the scale can be adjusted (usually by twisting the four feet to the innermost
+part) to prevent the scale from swinging. After completing these steps, turn on the machine
+and wait for "0.00" to appear before it can be weighed normally.
+This product has a wide range of applications, mainly in laboratories, gold and jewelry
+stores, chemical, metallurgical, mining, textile, teaching, etc. It is important to avoid working
+environments (adverse environments include "wind, vibration, magnetic field", etc.)
+
+
+The ZERO key of the product is the peeling and zeroing key, with the highest frequency of
+use. The other UNIT keys are some unit conversions, mainly including g, ct, oz, ozt, lb,%,
+etc. We will calibrate this product before shipping, and the accuracy of the product meets
+the requirements. Customers can use it with confidence after receiving it. If there are any
+problems during use, please feel free to contact us, and we will patiently guide and maintain
+it. In addition, this product cannot be weighed excessively ("--------" overweight warning),
+and should not be soaked in water or dropped. It is best to return it to its original packaging
+after use to ensure the long-term use of the product.
+
+
+Manufacturer:Shanghaimuxinmuyeyouxiangongsi
+Address: Shuangchenglu 803nong11hao1602A-1609shi, baoshanqu,
+shanghai 200000 CN.
+Imported to AUS: SIHAO PTY LTD, 1 ROKEVA STREETEASTWOOD NSW
+2122 Australia
+Imported to USA: Sanven Technology Ltd., Suite 250, 9166 Anaheim Place,
+Rancho Cucamonga, CA 91730
+
+
+
+
+                                              -6-
+Technical Support and E-Warranty Certificate
+www.vevor.com/support
+

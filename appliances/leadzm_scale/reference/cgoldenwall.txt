@@ -1,0 +1,327 @@
+The following content is the common problems and
+questions that our customers encountered before.
+Please read carefully before use.
+
+If any problem occurs during use, please CONTACT US
+FIRST. We promise we will help you solve them and
+give you a satisfied solution.
+
+Notice: All of our scales has already been
+calibrated and are ready for use!
+If the scale get inaccurate after some time of use,
+please calibrate it following the instructions.
+Scan the following QR code or enter the YouTube link to
+watch the instruction video about how to install the plate,
+how to count and calibrate.
+
+
+
+
+YouTube link: https://youtu.be/-6Oh13s75wg
+
+*How to contact us?*
+You can contact us through Amazon or service email
+or Whatsapp.
+Service email: sunflowersmile20130401@hotmail.com
+Facebook:Mary Cgoldenwall
+WhatsApp:+8613758246804
+
+               CGOLDENWALL® HZ Electronic balance
+      Brand Store: https://www.amazon.com/stores/node/16348280011
+Ⅰ. Common Questions
+(1) Q: What to do if the scale get inaccurate after some time of use?
+A: Please calibrate it according to the instruction. (see in (4))
+
+(2) Q: Why the reading is always fluctuating and it can’t set zero or get a
+sable weighing results?
+A: Please check whether your under-plate is installed reversed. The
+incorrect installation will cause fluctuating reading.
+See in part 1, how to install the under-plate correctly.
+
+(3) Q: Why the 5000g scale is without calibration weights?
+A: This lab scale with range from 200g-3000g all has calibration weights
+except 5000g. Because the 5000g scale needs 2000g calibration weights,
+which is too heavy and might damage the scale during international
+shipment. If you need calibration weights, you can purchase on Amazon
+easily.
+Here is the link of 2kg calibration weights:
+https://www.amazon.com/2000g-Calibration-Weight-Chrome-
+Scales/dp/B 07SY8FV32/
+
+(4) Q: How to calibrate?
+A: Take the 1000g scale for example, please choose the correct weights
+according to the scale display.
+The following is one point calibration step:
+1.Press and hold "CAL" until the scale displays "CAL"
+2.Put the 500g calibration weights when the balance displays twinkles
+500g.Remove the calibration after stabilization.If the scale displays
+"0.00", it is finished.
+(Friendly remind:Please kindly make sure that you place the balance on a
+smooth and steady table and adjust the four black screws at the button to
+make it stable.)
+
+
+(5) Q: Why the panel display like the following picture and then shut
+down?
+
+
+
+
+                 CGOLDENWALL® HZ Electronic balance
+        Brand Store: https://www.amazon.com/stores/node/16348280011
+A: It means that the scale is out of power now.
+If you have powered it by battery, please change battery. If you power
+the scale by power cord, then the cord may be damaged. Please check it
+by trying to power it by battery first. If the scale can work properly with
+the battery, then it’s the power cord problem. Please contact us and we
+will help you free replace the power cord within one year.
+You can also purchase power cord from us if it’s out of one year
+warranty.
+
+
+(6) Q: What should I do if some accessories like connection
+screws/power cable are lost or damaged within one year?
+ A: Please CONTACT US FIRST. We will free replace or resend them
+to you.
+
+
+(7) Q: What to do if the scale does not go to zero after weighing?
+A: 1. If it can't return to ZERO before weighing, press TARE/ZERO
+button to return to zero.
+ 2. If it can't return to ZERO after weighing. Please check whether it is
+ overload and calibrate it following the instruction.
+
+
+(8) Q：How to tare the container weight?
+A: 1. Start the scale and wait it until it displays 0.0 or 0.00 or 0.000.
+ 2. Put the container on the weighing pan and press TARE button to
+ subtract the container weight.
+ 3. Tare finished and you can start weighing.
+
+
+
+
+                   CGOLDENWALL® HZ Electronic balance
+          Brand Store: https://www.amazon.com/stores/node/16348280011
+Part 1 Under-plate Pan Installation
+
+
+
+
+              CGOLDENWALL® HZ Electronic balance
+     Brand Store: https://www.amazon.com/stores/node/16348280011
+Ⅱ.Overview and Specification
+1.   Overview
+   This analytical electronic balance has the functions of peeling weight,
+self correcting, memory, counting, fault display and the like. And it
+features automatic fault detection, over-load alarm, a large easy-to-read
+digital display, and most importantly fast accurate readings. As the
+advantages of accurate weighing, fast stability, simple operation and
+complete function, and is suitable for rapidly determining the quality and
+quantity of objects in industry, agriculture, commerce, school, scientific
+research and other units.
+
+2. Button Function：
+
+
+
+
+ON/OFF—"ON/OFF"
+PCS—"COUNT" key;
+TARE— "TARE" key
+UNIT—"Unit Conversion" key;
+CAL— "Calibration" key
+ZERO— "Zero" key
+
+
+
+                 CGOLDENWALL® HZ Electronic balance
+        Brand Store: https://www.amazon.com/stores/node/16348280011
+3. Specifications and Performance Indicators
+    JM series electronic balance is divided into following specifications
+according to different ranges.
+    Model       2002 3002 5002 10002 20002 30002 50002 5001 10001 12001 20001
+  Maximum
+                200g 300g 500g 1000g 2000g 3000g 5000g 500g 1000g 1200g 2000g
+    range
+  Resolution    0.01g 0.01g 0.01g 0.01g 0.01g 0.01g 0.01g 0.1g 0.1g     0.1g   0.1g
+ Verification
+                10d   10d   10d   10d   10d     10d    10d 10d   10d    10d    10d
+    index
+Peeling range   200g 300g 500g 1000g 2000g 3000g 5000g 500g 1000g 1200g 2000g
+  Calibration
+                200g 200g 500g 500g 1000g 1000g           500g 500g 500g 1000g
+   weight
+  Scale size      Φ110                              Φ130
+     Size                            195mm*55mm*260mm
+    Power                    External power supply(AC110V)，DC9V
+  Operating
+ temperature                                  5~35℃
+Use humidity                                  50-85%
+
+
+
+Ⅲ. Operation
+1. Prepare for operation
+Place the balance on a stable, level table and adjust the leveling feet to
+make the level bubble in the circle(not necessarily in the center). Avoid
+vibrations, sunlight,strong airflow, and strong electromagnetic
+interference.
+
+Connect an external power supply or install a 9V battery.
+Press "ON/OFF" button to display 8.8.8.8.8."," maximum weighing value,
+"---", "where" --- "The display time depends on the stability of the sensor.
+Therefore, do not place the balance on the unstable worktable. Finally, the
+weighing mode “0 or 0.0 or 000” is displayed. If the “O” symbol in the
+upper left corner shines, the workplace is stable.
+
+2. Calibration Balance
+(1)Place the balance on a stable, level table and avoid vibration, sunlight,
+airflow, and strong electromagnetic interference.
+
+(2)Calibration process
+Hold down the "CAL calibration" button without holding any object on
+the weighing pan. After about 3 seconds, immediately release the
+
+                   CGOLDENWALL® HZ Electronic balance
+          Brand Store: https://www.amazon.com/stores/node/16348280011
+message when "--CAL--" is displayed. Wait until the standard weight
+value is displayed. ", place the weight of the "standard weight value" that
+shines on the plate, display "---" waiting state, wait a moment, display
+"standard weight value", take the weight, the display becomes "---" wait
+Status, wait, "0 or 0.0 or 0.00" is displayed and the calibration is
+completed. If the weighing after calibration is still inaccurate, repeat the
+calibration several times as described above.
+
+(3)Calibration Video
+We have record a video how to calibrate of 5000g,0.01g balance for your
+reference,please kindly check it.
+Calibration Video： Scan code (1’30’’ in the video)
+
+
+
+
+Friendly remind: Please kindly make sure the balance steadily. Place the
+balance on a smooth and steady table and adjust balance through
+tightening four black screws at the button of the balance.
+
+3. Weighing
+(1) After power-on stabilization or calibration, display weighing mode 0
+    or 0.0 or 0.00”.
+(2) Set the weight on the weighing pan, which shows the weight of the
+    item.
+4. Tare
+(1) Place the container on the weighing pan and the balance shows the
+    quality of the container.
+(2) After pressing the "TARE" TARE key, "0.0 or 0.00 or 0.000" is
+    displayed, which means that it has been tared.
+(3) Placed in the container, that shows the quality of the object.
+
+5. Balance Counting Operation
+(1) Enter to set a single count object average state:
+   Place the weighing container on the weighing pan and use the container.
+If you do not need to hold the container, press the “TARE” key to display
+“0 or 0.0 or 0.00”. Then press the “PCS count” key to display “10”. In the
+lower right corner, "g to PCS" is displayed, and then 10 objects to be
+                   CGOLDENWALL® HZ Electronic balance
+          Brand Store: https://www.amazon.com/stores/node/16348280011
+counted are placed on the weighing pan, and then the "PCS count" key is
+pressed. The display changes to "---" wait state, and the display changes
+later. The averaging operation is done for “10”, and the balance can
+perform the counting operation.(In this operation, the zero point must be:
+“0 or 0.0 or 0.00”, the weight of a single count must be greater than the
+balance minimum readable, ie resolution)
+6. Balance Unit Conversion Operation
+   Press “UNIT” unit conversion key. Each press can be displayed in turn,
+“CT (carat)”, “OZ (ounce)”, “LB” (pound), g, or Kg “(grams or
+kilograms), according to Users need to display different weighing units.
+The default value of the balance boot is "g" (grams).
+7. Overweight Alarm
+   When the mass of the object is said to exceed (1+2%) of the value
+displayed on the display, the horizontal "---" sign indicates that the
+accumulative item exceeds the specified range, and the scale should be
+removed immediately, otherwise it will damage the balance.
+8. Attention
+(1) Before using it should be energized preheating.
+(2) The tare weight and the weight of the object must not exceed the
+    weighing range.
+(3) If the weighing is not accurate, use standard weights to calibrate the
+    balance.
+
+(4) To remove the weighing pan from the balance, turn the weighing pan
+    clockwise and remove it. Do not push the weighing pan upwards to
+    avoid damaging the sensor.
+(5) If there is an error message, please check the table.
+
+
+Error message         Reason                       Treatment
+                      The weight on the
+underline —                                        Recalibrate with weights
+                      balance is negative
+Upper horizontal line Overweight alarm, see
+                                                   Recalibrate with weights
+—                     Article 10
+                      Continuous switch            Shut down for 3 seconds
+ERR-1
+                      caused                       before booting
+ERR-2                 Weighing is not stable       Wait a moment
+口                     Low battery voltage          Change the battery
+
+9. Product standard
+   Product standard: Electronic GBT 26497-2001
+
+                 CGOLDENWALL® HZ Electronic balance
+        Brand Store: https://www.amazon.com/stores/node/16348280011
+              Pan Size   Windbre              Amazon
+                                   Weight
+               (mm)        ak                  ASIN
+ 200g/0.1g     Ф140        ×         ×      B074PMMNVF
+
+ 500g/0.1g     Ф140        ×         ×      B074PNTTC9
+
+1000g/0.1g     Ф140        ×         ×      B074PNWXLX
+
+2000g/0.1g    180*140      ×         ×      B074PNH7ZJ
+
+3000g/0.1g    180*140      ×         ×      B074PNF8C3
+
+
+ 5kg/0.1g     180*140      ×         ×      B074PQL6F9
+
+ 10kg/0.1g    180*140      ×         ×      B074PR3FTY
+
+ 15kg/0.1g    180*140      ×         ×      B074PQNWZR
+
+ 20kg/0.1g    180*140      ×         ×      B074Q693FJ
+
+ 30kg/0.1g    180*140      ×         ×      B074PR2QCH
+
+200g/0.01g     Ф130        √       100g*1   B074QGCR7P
+
+300g/0.01g     Ф130        √       100g*2   B074Q9V5HQ
+
+500g/0.01g     Ф130        √       100g*2   B074QCD6MM
+
+600g/0.01g     Ф130        √       500g*1   B074QHH2N1
+
+1000g/0.01g    Ф130        √       500g*1   B074QDPPBY
+
+2000g/0.01g    Ф130        √       500g*2   B074Q9DNXR
+3000g/0.01g    Ф130        √       500g*2   B074QGFJL3
+
+2000g/0.01g   180*140      ×       500g*2   B07CC4QVHL
+
+3000g/0.01g   180*140      ×       500g*2   B07C3Q538F
+
+
+5000g/0.01g   180*140      ×         ×      B074Q9QSF4
+
+
+100g/0.001g    Ф110        √       100g*1   B073CHHFDR
+
+200g/0.001g    Ф110        √       100g*1   B073CFGSZL
+
+300g/0.001g    Ф110        √       100g*2   B073CCSR7H
+
+500g/0.001g    Ф110        √       100g*2   B073CFR2FY
+

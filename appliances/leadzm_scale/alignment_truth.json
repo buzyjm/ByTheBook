@@ -1,0 +1,27 @@
+{
+  "session": "results/press_mark/session.pkl captured 2026-10-07 15:14",
+  "ego": {
+    "ON/OFF key": [
+      6,
+      7
+    ],
+    "Display": [
+      11,
+      12,
+      13
+    ],
+    "TARE/ZERO key": [
+      15
+    ],
+    "UNIT key": [
+      17
+    ],
+    "PCS key": [
+      18,
+      19
+    ],
+    "CAL key": [
+      23
+    ]
+  }
+}

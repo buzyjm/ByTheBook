@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and editors
+.env
+.venv/
+.idea/
+.vscode/
+
+# Rig-specific state written by the tools (camera modes, arm calibration, registration)
+rig_state/
+
+# Run outputs
+results/
+*.log
+*.pkl
+
+# Manual pages rendered for the locally served language model (bythebook/vlm.py, manual_pages)
+appliances/**/.*_pages_*/
+
+# 3-D scans of the appliances: large and not used by the code
+appliances/*/scan/
+
+# Model weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# OS
+.DS_Store
+Thumbs.db

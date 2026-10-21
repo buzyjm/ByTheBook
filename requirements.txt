@@ -1,0 +1,13 @@
+# Installed on top of torch 2.11.0+cu128 (see setup_env.sh). numpy is pinned because
+# lerobot 0.6.1 requires numpy < 2.3.
+lerobot[feetech]==0.6.1
+numpy==2.2.6
+anthropic>=1.11          # ClaudeVLM
+openai>=3                # LocalVLM and tools/chat_local.py: client for the vLLM server
+transformers>=5.0        # GroundingDINO and SAM
+opencv-python-headless
+scipy
+pillow
+matplotlib               # tools/make_manual.py and tools/tip_touchup.py
+pytest
+placo                    # only used by the tests, as an independent check of the kinematics
